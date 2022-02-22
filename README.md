@@ -1,3 +1,5 @@
+![NHL](https://th.bing.com/th/id/R.2900883730dbf660fc0d3f5acd86f04e?rik=pt2LsU9hqSMuSQ&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fjtCN9Z3.jpg&ehk=BppXVm7nLKqbikJZUj2bM%2f8VlULVHSdNrrga%2fXSq8Ug%3d&risl=&pid=ImgRaw&r=0)
+
 # NHL Tips - An Online Sport Wager Recommendation Website
 This project required me to take on the role of an analyst for a fictional online company, NHL Tips, a sports wager recommendation company that operates through the internet. My task was to perform an initial data and exploratory analysis of the NHL's data in order to derive insights for users of the website. 
 
