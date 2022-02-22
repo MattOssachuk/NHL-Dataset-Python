@@ -4,7 +4,7 @@
 This project required me to take on the role of an analyst for a fictional online company, NHL Tips, a sports wager recommendation company that operates through the internet. My task was to perform an initial data and exploratory analysis of the NHL's data in order to derive insights for users of the website. 
 
 # Link to Tableau Public
-If you are looking for the results of this is the [Tableau Storyboard](https://public.tableau.com/views/NHLDataset-Final/Story1?:language=en-US&:display_count=n&:origin=viz_share_link).
+If you are looking for the results of this here is the [Tableau Storyboard](https://public.tableau.com/views/NHLDataset-Final/Story1?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 # Objective
 
