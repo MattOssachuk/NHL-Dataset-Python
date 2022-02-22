@@ -28,7 +28,11 @@ The stakeholders would like to be able to answer the following key questions:
 
 # Data Set information
 game.xlsx - Contains data on home goals, venue and other statistics about specific NHL games
+
 game_skaters_stats.xlsx - Contains data on assists, goals, shots, hits and many more stats for each player in the NHL (data set shrunk to fit on Github)
+
 game_teams_wins.xlsx - Contains data on each team's total number of wins in the NHL
+
 data_relationships.csv - A prepared dataset containing information on a teams total number of assists, goals, shots, hits, blocked shots and number of wins to analyze relationships
+
 map.csv - A prepared dataset containing state names and their total number of goals in the NHL
